@@ -21,6 +21,13 @@ MotoGP eCommerce Website is a visually engaging and user-friendly website dedica
 - **FontAwesome:** Icons for ratings and UI elements.
 - **Google Fonts (Poppins):** Enhanced typography for a modern look.
 
+  
+![Screenshot 2025-03-28 124344](https://github.com/user-attachments/assets/81d74d3c-b065-45a2-9939-8737442e0a3a)![Screenshot 2025-03-28 124407](https://github.com/user-attachments/assets/4adc854f-afe8-48b2-ae8f-17cec286bb89)
+![image](https://github.com/user-attachments/assets/cc320540-288f-4a0b-a596-76d94df1faf3)
+![image](https://github.com/user-attachments/assets/20aba2bd-5f1e-465b-9858-b92da6a102b3)
+![image](https://github.com/user-attachments/assets/51d49f7d-83f3-4e77-806c-a042c98c5f30)
+![image](https://github.com/user-attachments/assets/f0772a88-0b6d-41fe-9b49-b20a1a18ac26)
+
 ## File Structure
 # E-commerce Website Styling
 
@@ -80,6 +87,3 @@ To use this CSS, include it in your HTML file within the `<head>` section:
 <head>
   <link rel="stylesheet" href="style.css">
 </head>
-
-![Image](https://github.com/user-attachments/assets/e28af38c-a0cd-476c-8884-506a13da083e)
-
