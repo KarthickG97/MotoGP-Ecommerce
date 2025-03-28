@@ -80,3 +80,6 @@ To use this CSS, include it in your HTML file within the `<head>` section:
 <head>
   <link rel="stylesheet" href="style.css">
 </head>
+
+![Image](https://github.com/user-attachments/assets/e28af38c-a0cd-476c-8884-506a13da083e)
+
